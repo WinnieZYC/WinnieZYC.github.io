@@ -27,4 +27,4 @@ int main(){
 }
 ```
 
-![pic3](/assets/blog_res/2022-04-13-first-post.assets/pic3-16498306085832.png)
+![pic3](/assets/blog_res/2022-04-13-first-post.assets/pic3.png)
