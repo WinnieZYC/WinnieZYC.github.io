@@ -12,7 +12,7 @@ comments: true
 math: false
 mermaid: true
 
-typora-root-url: ../../winniezyc.github.io
+typora-root-url: ../../WinnieZYC.github.io
 
 ---
 
@@ -27,4 +27,4 @@ int main(){
 }
 ```
 
-![pic3](/../WinnieZYC.github.io/assets/blog_res/2022-04-13-first-post.assets/pic3.png)
+![pic3](/assets/blog_res/2022-04-13-first-post.assets/pic3-16498306085832.png)
