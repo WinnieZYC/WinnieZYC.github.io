@@ -4,7 +4,7 @@ date: 2022-03-26 10:34:00 +0800
 categories: [随笔]
 tags: [生活]
 pin: true
-author: 湾区书记汤姆
+author: WinnieZ
 
 toc: true
 comments: true
@@ -18,10 +18,10 @@ image:
 
 ---
 
-# 感谢关注～ 
-
+# 感谢关注～
 
 这里可以放代码片段噢～
+
 ```c++
 //代码片段
 int main(){
