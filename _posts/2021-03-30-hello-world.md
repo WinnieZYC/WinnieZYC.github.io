@@ -8,7 +8,7 @@ author: WinnieZ
 
 toc: true
 comments: true
-typora-root-url: ../../tomstillcoding.github.io
+typora-root-url: ../../winniezyc.github.io
 math: false
 mermaid: true
 

@@ -1,5 +1,5 @@
 ---
-title:我的第一篇博文
+title: 我的第一篇博文
 date: 2022-04-13 10:34:00 +0800
 categories: [随笔]
 tags: [生活]
@@ -12,7 +12,7 @@ comments: true
 math: false
 mermaid: true
 
-typora-root-url: ../../tomstillcoding.github.io
+typora-root-url: ../../winniezyc.github.io
 
 ---
 
