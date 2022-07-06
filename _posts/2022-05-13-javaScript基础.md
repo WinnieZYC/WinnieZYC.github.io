@@ -3,7 +3,7 @@ title: javascript基础
 date: 2022-05-13 10:34:00 +0800
 categories: [xiaozhoubg]
 tags: [javascript]
-pin: true
+pin: false
 author: WinnieZ
 
 toc: true
